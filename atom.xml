@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jinlook.github.io/"/>
-  <updated>2016-08-01T02:44:54.368Z</updated>
+  <updated>2016-08-01T02:49:39.778Z</updated>
   <id>http://jinlook.github.io/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://jinlook.github.io/2016/08/01/jinlife-server-down/"/>
     <id>http://jinlook.github.io/2016/08/01/jinlife-server-down/</id>
     <published>2016-08-01T02:52:00.000Z</published>
-    <updated>2016-08-01T02:44:54.368Z</updated>
+    <updated>2016-08-01T02:49:39.778Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="享生活软件网站服务器提供商出现严重故障"><a href="#享生活软件网站服务器提供商出现严重故障" class="headerlink" title="享生活软件网站服务器提供商出现严重故障"></a>享生活软件网站服务器提供商出现严重故障</h1><h2 id="服务器正在修复中-网站恢复可能还需要一段时间-不影响无忧火车票的使用"><a href="#服务器正在修复中-网站恢复可能还需要一段时间-不影响无忧火车票的使用" class="headerlink" title="服务器正在修复中, 网站恢复可能还需要一段时间. 不影响无忧火车票的使用"></a>服务器正在修复中, 网站恢复可能还需要一段时间. 不影响无忧火车票的使用</h2><h3 id="给您带来不便敬请原谅"><a href="#给您带来不便敬请原谅" class="headerlink" title="给您带来不便敬请原谅"></a>给您带来不便敬请原谅</h3><p>最新的无忧火车票, 请至网盘下载: <a href="http://pan.baidu.com/s/1sjwow01" target="_blank" rel="external">http://pan.baidu.com/s/1sjwow01</a></p>
+    <content type="html"><![CDATA[<h1 id="享生活软件网站服务器提供商出现严重故障"><a href="#享生活软件网站服务器提供商出现严重故障" class="headerlink" title="享生活软件网站服务器提供商出现严重故障"></a>享生活软件网站服务器提供商出现严重故障</h1><h2 id="服务器正在修复中-网站恢复可能还需要一段时间-邮箱服务也出现问题"><a href="#服务器正在修复中-网站恢复可能还需要一段时间-邮箱服务也出现问题" class="headerlink" title="服务器正在修复中, 网站恢复可能还需要一段时间, 邮箱服务也出现问题"></a>服务器正在修复中, 网站恢复可能还需要一段时间, 邮箱服务也出现问题</h2><h3 id="不影响无忧火车票的使用-给您带来不便敬请谅解"><a href="#不影响无忧火车票的使用-给您带来不便敬请谅解" class="headerlink" title="不影响无忧火车票的使用, 给您带来不便敬请谅解"></a>不影响无忧火车票的使用, 给您带来不便敬请谅解</h3><p>最新的无忧火车票, 请至网盘下载: <a href="http://pan.baidu.com/s/1sjwow01" target="_blank" rel="external">http://pan.baidu.com/s/1sjwow01</a></p>
 <p>V2.5.0.2版本</p>
 <ul>
 <li>修复了邮件发送的问题, 增加自定义smtp邮箱</li>
